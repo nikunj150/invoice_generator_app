@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p>
-<img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/00893048-fc30-4eba-bc5f-9b88b1c5a28b">
-  <img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/aaed42ea-74ab-4227-80b7-4d917cd98fce">
-  <img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/af898a81-911f-4790-81fc-aefb923d7cc2">
+<img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/00893048-fc30-4eba-bc5f-9b88b1c5a28b"height="100">
+  <img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/aaed42ea-74ab-4227-80b7-4d917cd98fce"height="100">
+  <img src="https://github.com/nikunj150/invoice_generator_app/assets/141740390/af898a81-911f-4790-81fc-aefb923d7cc2"height="100">
 </p>
