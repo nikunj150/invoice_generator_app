@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:invoice_generator_app/utils/global_class.dart';
 
+
+
 class DetailScreen extends StatefulWidget {
   const DetailScreen({super.key});
 

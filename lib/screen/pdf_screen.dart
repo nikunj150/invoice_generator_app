@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:invoice_generator_app/utils/global_class.dart';
+import 'package:invoice_generator_app/utils/print_screen.dart';
 
 class PdfScreen extends StatefulWidget {
   const PdfScreen({super.key});
@@ -17,8 +18,8 @@ class _PdfScreenState extends State<PdfScreen> {
             title: Text("Pdf Generate", style: TextStyle(color: Colors.white)),
             centerTitle: true, actions: [
                IconButton(onPressed: () {
-
-               }, icon: Icon(Icons.picture_as_pdf_rounded)),
+                 getPDF();
+               }, icon: Icon(Icons.print)),
         ]),
         body: Padding(
           padding: const EdgeInsets.all(15),
