@@ -17,7 +17,8 @@ class _PdfScreenState extends State<PdfScreen> {
         appBar: AppBar(
             title: Text("Pdf Generate", style: TextStyle(color: Colors.white)),
             centerTitle: true, actions: [
-               IconButton(onPressed: () {
+               IconButton(
+                   onPressed: () {
                  getPDF();
                }, icon: Icon(Icons.print)),
         ]),
